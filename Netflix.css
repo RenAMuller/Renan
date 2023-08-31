@@ -1,0 +1,33 @@
+
+body{
+    background-color: black;
+}
+
+body p{
+    color: white;
+    text-align: center;
+}
+body main{
+width: 900px; margin: 0 auto;
+}
+ul {
+width: 100%;
+display: flex;
+}
+li{
+    width: 20%;
+    height: 180px;
+}
+li img {
+    width: 100%;
+    cursor: pointer;
+    transition: all 0.5;
+    height: 100%;
+}
+
+p{
+    font-family: sans-serif;
+}
+#Girafa{
+
+}
